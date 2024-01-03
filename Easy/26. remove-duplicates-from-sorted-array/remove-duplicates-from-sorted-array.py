@@ -8,6 +8,6 @@ class Solution:
         return j
 
 
-nums = [1,1,2]
+nums = [1, 1, 2]
 solution = Solution()
 print(solution.removeDuplicates(nums))
